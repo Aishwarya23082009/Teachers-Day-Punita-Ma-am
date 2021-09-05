@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+#welcome {
+    background: linear-gradient(#eb5757 0%, #e5f716 100%);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#sai {
+    margin-bottom: 200px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    margin-top: 30px;
+    align-content: center;
+}
+
+#punita_mam {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    margin-top: 30px;
+    border-radius: circle;
+
+
+}
+
+#logo {
+    width: 300px;
+    height: 300px;
+    border-radius: 150%;
+    margin-top: 30px;
+}
+
+#teachers_day {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    align-content: center;
+      
+
+
+
+
+
+
+p {
+    font-size: 25px;
+    margin: 25px auto;
+    line-height: 1.5;
+    font-style: italic;
+}
+
+H1 {
+    margin-top: 30px;
+    font-size: 45px;
+    font-style: italic;
+    text-align: center;
+}
+    
+
+
